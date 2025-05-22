@@ -93,9 +93,15 @@ simulate = st.checkbox("▶️ Start Live Simulation")
 
 ### 📷 Screenshots
 
-| Live Efficiency Chart | Feature Impacts       | SHAP Analysis     |
-| --------------------- | --------------------- | ----------------- |
-|        |  |  |
+### Live Efficiency Chart 
+![Dashboard Screenshot](dash1.jpg)
+### Feature Impacts 
+![Dashboard Screenshot](dash2.jpg)
+### SHAP Analysis     
+![Dashboard Screenshot](dash3.jpg)
+   
+ 
+ 
 
 ---
 
